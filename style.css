@@ -1,0 +1,97 @@
+body {
+    background-image: url(Purplin.jpg);
+}
+#login {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    width: 1100px;
+    height: 500px;
+    background-color: rgb(0, 0, 0);
+ }
+#image  {
+    float: right;
+    width: 550px;
+    height: 500px;
+    /* background-image:url(fish.jpg);background-repeat: no-repeat; background-attachment: fixed;
+    background-size: cover; background-size: 100% 100%; */
+} 
+#reg {
+    float: left;
+    width: 550px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+}
+#input {
+    background-color: transparent;
+    color: #000000;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid #797777 1px;
+    padding: 2px 150px;
+}
+.para{
+    margin:0; 
+    display:inline;
+}
+.para2{
+    margin:0; 
+    display:inline;
+}
+#click {
+    color: purple;
+}
+#container {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 70px;
+}
+#log {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 220px;
+    padding-left: 220px;
+    border-radius: 7px;
+    background-color: purple;
+    color: white;
+    font-size: large;
+}
+#forg{
+    color: purple;
+    background-color: transparent;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+#click {
+    background-color: transparent;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+.cent{
+    text-align: center;
+}
+.but{
+    cursor: pointer;
+}
+.para2 {
+    cursor: pointer;
+}
+#icon {
+    color: purple;
+}
+.line{
+    background-color: purple;
+    height:2px;
+    width: 35px;
+}
